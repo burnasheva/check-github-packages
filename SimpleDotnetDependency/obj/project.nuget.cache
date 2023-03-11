@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zZNJNKYeZ/PCNYqVlmqBa7VO2X/WPLue5YCTnqwdRfWC2fLvpXYClFqwlyLIxVAPZH0UTJTgQ+gKTgFwofqkQg==",
+  "success": true,
+  "projectFilePath": "/Users/burnasheva/Downloads/SimpleDotnetDependency/SimpleDotnetDependency/SimpleDotnetDependency.csproj",
+  "expectedPackageFiles": [
+    "/Users/burnasheva/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
